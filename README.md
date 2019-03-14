@@ -2,7 +2,8 @@
 A todo list app 
 
 Frontend : HTML CSS Bootstrap
-Backend : Javascript (nodejs, express). Templating using EJS
+Backend : Javascript (nodejs, express). 
+Templating using EJS
 Database : MongoDB with Mongoose
 
 See the working video (locally run) here : 
